@@ -1,4 +1,4 @@
-<h1>Homeword 01</h1>
+<h1>Home work 01</h1>
 <hr>
 <h3>Ex 1</h3>
 關  關  雎  鳩<br>
@@ -69,5 +69,5 @@
 <h3>Ex 4</h3>
 <a href="http://www.google.com/doodles/evidence-of-water-found-on-mars"><img src="http://www.google.com/logos/doodles/2015/evidence-of-water-found-on-mars-5652760466817024.2-hp2x.gif" height=200 alt="在火星上發現水存在的證據"></a>
 
-<hr>
-<h3>Ex 5</h3>
+
+
